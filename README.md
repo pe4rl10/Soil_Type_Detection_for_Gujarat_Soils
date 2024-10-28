@@ -22,7 +22,7 @@ Welcome to the Soil Type Detection project! This application identifies soil typ
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Soil-Type-Detection.git```
+   git clone https://github.com/pe4rl10/Soil_Type_Detection_for_Gujarat_Soils.git```
 
 2. **Backend Setup**:
 
