@@ -1,0 +1,3 @@
+venv/
+.idea/
+soil_detection_model-15ep.h5
